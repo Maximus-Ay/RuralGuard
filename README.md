@@ -1,5 +1,5 @@
 # RuralGuard
-#🌍Overview
+#🌍Overview#
 
 RuralGuard is a **distributed mobile-based incident Control and Support Relay(ICSR) system** designed for rural African communities. Many regions lack **fast emergency reporting and coordination**, leading to delayed responses and preventable losses. RuralGuard allows citizens to report incidents via a mobile app while automatically connecting them to local responders or nearby communities even during network outages.
 
